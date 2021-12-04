@@ -1,0 +1,90 @@
+Lacio
+Ondulado
+Castaño
+Candado
+Completa
+Chivo
+Guitarra
+Arpa
+Violín
+Medio
+Pulgar
+Anular
+Chozas
+Árboles
+Nubes
+Blanca
+Café
+Amarilla
+Un libro
+Una vela
+Nada
+Una
+Dos
+Cuatro
+Montañas
+Pasto
+Agua
+Una roca
+Un tronco
+Un cisne
+Si
+No
+No lo sé
+Cigarro
+Puro
+Pipa
+Rosas
+Verdes
+Rojas
+Una
+Dos
+Tres
+Uno
+Dos
+Cuatro
+Barba
+Cabello
+Ojos
+Tres
+Cuatro
+Cinco
+Francisco I. Madero
+Venustiano Carranza
+Victoriano Huerta
+Dos
+Uno
+Tres
+Estrellas
+Balanza
+Trompetas
+Barba
+Cabello
+Cejas
+Rosas
+Sombrero
+Moño
+Uno
+Dos
+Siete
+Rojo
+Verde
+Azul
+Cabello
+Ojos
+Naríz
+Violín
+Guitarra
+Piano
+Sí
+No
+No lo sé
+Azul con Verde
+Amarillo con Azul
+Naranja con Azul
+Conejo
+Mono
+Dinosaurio
+Barco
+Conejo
+Casa
